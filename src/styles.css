@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+    /* font-family: 'PT Serif', serif; */
+}
+
+.bg-sky {
+    background-color: rgba(189, 219, 224, 0.397);
+}
+
+.text-shadow {
+    text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.623);
+}
+
+.btn {
+    padding: 5px 23px;
+    border-radius: 6px;
+}
+
+
+/* h1 {
+    color: white;
+} */
